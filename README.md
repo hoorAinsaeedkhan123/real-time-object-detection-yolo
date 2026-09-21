@@ -1,7 +1,5 @@
 # Object Detection for Security Footage
 
-**Week 3 Internship Project | SafeX Solutions**
-
 End-to-end object detection prototype for CCTV-style security footage using YOLOv8, OpenCV, and Streamlit.
 
 ## 🎯 Problem Statement
