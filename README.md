@@ -362,7 +362,7 @@ streamlit run app.py --logger.level=debug &
 
 ## 👤 Author
 
-**Rayyan** | SafeX Solutions Internship | Week 3 | September 2026
+**Hoor Ain Saeed** | Week 3 | September 2026
 
 ---
 
