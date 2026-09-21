@@ -1,0 +1,23 @@
+# Core dependencies - verified on 2026-09-07
+ultralytics==8.4.142
+opencv-python==5.0.0.93
+streamlit==1.63.0
+torch==2.14.0
+torchvision==0.29.0
+numpy==2.5.3
+pandas==3.0.5
+pytest==9.1.1
+matplotlib==3.11.1
+pillow==12.3.0
+pyyaml==6.0.3
+
+# Transitive dependencies pinned for reproducibility
+cloudpickle==3.1.2
+filelock==3.32.5
+requests==2.34.2
+psutil==7.2.2
+protobuf==7.36.1
+pyarrow==25.0.1
+altair==6.2.2
+click==8.5.0
+watchdog==6.0.0
